@@ -19,4 +19,4 @@ The following are the steps on using the team profile generator:
 
 ## Video/gif walk through link below:
 
-
+https://drive.google.com/file/d/1n9PJ9zHrZoN4eeoBz9Ug14NnAKDDVkc4/preview
